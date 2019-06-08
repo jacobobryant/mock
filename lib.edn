@@ -1,0 +1,4 @@
+{:version "0.0.1-SNAPSHOT",
+ :group-id "jobryant",
+ :github-repo "jacobobryant/mock",
+ :artifact-id "mock"}
